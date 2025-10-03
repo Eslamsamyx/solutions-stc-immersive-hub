@@ -3,12 +3,13 @@ import images from '../../assets/images';
 export const entranceHoloboxScreen = {
   id: 'entrance-holobox',
   name: 'Entrance Holobox',
-  description: 'Holographic display with Surface Pro tablet',
+  description: '86" holographic display with Surface Pro tablet',
   color: '#5B21B6',
   technicalSpecs: {
+    holographicDisplay: '86" Holographic Display',
+    resolution: '3840 x 2160 (4K UHD)',
     tablet: 'Surface Pro',
-    holoboxSize: 'Size not confirmed yet',
-    quantity: '1 tablet + 3D hologram object'
+    quantity: '1 holobox + 1 screen'
   },
   image: images.E1,
   topics: [

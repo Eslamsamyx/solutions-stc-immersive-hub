@@ -3,13 +3,13 @@ import images from '../../assets/images';
 export const digitalWallScreen = {
   id: 'digital-wall',
   name: 'Solutions Wall Screen',
-  description: 'Massive 6x6 LED wall - Brand experience',
+  description: 'Massive 6x6 LED wall with 30" OLED control panel',
   color: '#8B5CF6',
   technicalSpecs: {
     wallSize: '6x6 P0.9',
     resolution: '3840 x 2160',
     physicalDimensions: '3600 x 1687.5 mm',
-    controlScreen: 'Small screen (size not confirmed yet)'
+    controlScreen: '30" OLED (1366 x 768)'
   },
   image: images.E4,
   isTabbedView: true,
@@ -767,6 +767,62 @@ export const digitalWallScreen = {
     Download Raw Content PDF
   </a>
 </div>
+
+</div>`,
+        image: images.E4
+      }
+    },
+    {
+      id: 'control-screen',
+      name: 'Control Screen',
+      type: 'content',
+      content: {
+        title: 'Control Screen - 30" OLED Panel (1366 x 768)',
+        description: 'Interactive control panel for Solutions Wall management',
+        mediaType: 'control-interface',
+        explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
+
+<h4 style="color: #8B5CF6; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Control Screen Overview</h4>
+<p style="margin-bottom: 1rem;">The 30" OLED control panel provides comprehensive management of the Solutions Wall Screen (6x6 P0.9 LED wall) display system.</p>
+
+<h4 style="color: #8B5CF6; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Technical Specifications</h4>
+<ul style="margin-bottom: 1rem;">
+<li><strong>Display Type:</strong> 30" OLED Panel</li>
+<li><strong>Resolution:</strong> 1366 x 768 pixels</li>
+<li><strong>Aspect Ratio:</strong> 16:9</li>
+<li><strong>Interface:</strong> Touch-enabled interactive controls</li>
+<li><strong>Purpose:</strong> Content management and playback control for main LED wall</li>
+</ul>
+
+<h4 style="color: #8B5CF6; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Control Features</h4>
+<ul style="margin-bottom: 1rem;">
+<li><strong>Content Selection:</strong> Browse and select from available content topics (Who We Are, Success Stories, Partnerships, Value Chain, Timeline, Marketing Activations)</li>
+<li><strong>Playback Controls:</strong> Play, pause, skip, and navigate through content sequences</li>
+<li><strong>Volume Control:</strong> Adjust audio levels for the main LED wall display</li>
+<li><strong>System Status:</strong> Monitor network connectivity, system health, and display status</li>
+<li><strong>Content Queue:</strong> View and manage scheduled content items and playlists</li>
+<li><strong>Timing Controls:</strong> Set duration and transitions between content pieces</li>
+</ul>
+
+<h4 style="color: #8B5CF6; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Interface Layout</h4>
+<p style="margin-bottom: 1rem;">The control interface is optimized for the 1366x768 resolution with:</p>
+<ul style="margin-bottom: 1rem;">
+<li><strong>Status Bar:</strong> Shows current time, date, network status, and system indicators</li>
+<li><strong>Content Browser:</strong> Grid or list view of available content with thumbnails</li>
+<li><strong>Main Control Panel:</strong> Large playback buttons and volume slider for easy touch control</li>
+<li><strong>Content Queue:</strong> Shows upcoming content items with timing information</li>
+<li><strong>Preview Window:</strong> Real-time preview of what's currently showing on the main LED wall</li>
+</ul>
+
+<h4 style="color: #8B5CF6; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">User Experience</h4>
+<p style="margin-bottom: 1rem;">Designed for intuitive operation by facility staff with minimal training:</p>
+<ul style="margin-bottom: 1rem;">
+<li>Large touch targets optimized for quick selection</li>
+<li>Visual feedback for all interactions</li>
+<li>Color-coded status indicators (green=active, amber=pending, red=error)</li>
+<li>Simple drag-and-drop for content queue management</li>
+<li>Auto-play mode with manual override capability</li>
+</ul>
 
 </div>`,
         image: images.E4

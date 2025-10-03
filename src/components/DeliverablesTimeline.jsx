@@ -129,7 +129,7 @@ const DeliverablesTimeline = () => {
                 const BadgeIcon = badge.icon;
 
                 return (
-                  <div key={deliverable.id} className="deliverable-card">
+                  <div key={deliverable.id} className="deliverable-card" data-status={deliverable.status}>
                     <div className="deliverable-header">
                       <div className="deliverable-icon" style={{ background: `${getStatusColor(deliverable.status)}15`, color: getStatusColor(deliverable.status) }}>
                         <StatusIcon size={24} />
