@@ -213,56 +213,6 @@ const VisitorJourney = () => {
         </div>
       </div>
 
-      {/* Journey Phases Overview */}
-      <div className="journey-phases">
-        <h2 className="section-title">The Journey</h2>
-        <div className="phases-container">
-          <svg className="phases-flow-path" viewBox="0 0 1000 1400" preserveAspectRatio="none">
-            <defs>
-              <linearGradient id="phaseFlowGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-                {journeyPhases.map((phase, idx) => (
-                  <stop
-                    key={phase.id}
-                    offset={`${(idx / (journeyPhases.length - 1)) * 100}%`}
-                    stopColor={phase.color}
-                  />
-                ))}
-              </linearGradient>
-              <filter id="glow">
-                <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-                <feMerge>
-                  <feMergeNode in="coloredBlur"/>
-                  <feMergeNode in="SourceGraphic"/>
-                </feMerge>
-              </filter>
-            </defs>
-            <path
-              d="M 500,100 Q 300,200 500,300 Q 700,400 500,500 Q 300,600 500,700 Q 700,800 500,900 Q 300,1000 500,1100"
-              fill="none"
-              stroke="url(#phaseFlowGradient)"
-              strokeWidth="4"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              filter="url(#glow)"
-              className="flow-path-line"
-            />
-          </svg>
-          <div className="phases-grid">
-            {journeyPhases.map((phase, index) => (
-              <div
-                key={phase.id}
-                className={`phase-card ${activePhase === phase.id ? 'active' : ''}`}
-                style={{ '--phase-color': phase.color, '--phase-index': index }}
-              >
-                <div className="phase-number">{index + 1}</div>
-                <h3 className="phase-name">{phase.name}</h3>
-                <p className="phase-description">{phase.description}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </div>
-
       {/* Progress Indicator */}
       <div className="progress-indicator">
         <div
