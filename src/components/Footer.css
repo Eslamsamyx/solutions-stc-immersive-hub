@@ -11,10 +11,10 @@
   max-width: 1400px;
   margin: 0 auto;
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   gap: 2rem;
-  flex-wrap: wrap;
 }
 
 .footer-nav {
@@ -86,23 +86,15 @@
 
   .footer-content {
     gap: 1.5rem;
-    justify-content: center;
   }
 
   .footer-nav {
-    width: 100%;
-    justify-content: center;
     flex-wrap: wrap;
     gap: 1rem;
   }
 
   .footer-nav-link {
     font-size: 0.9rem;
-  }
-
-  .footer-branding {
-    width: 100%;
-    justify-content: center;
   }
 
   .footer-text {
