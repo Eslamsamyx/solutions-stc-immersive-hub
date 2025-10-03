@@ -1,6 +1,6 @@
 import { useState, useMemo, useEffect } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
-import { Search, Monitor, Tv, Projector, Activity, X, Image, BookOpen, Sparkles, Wrench, Trophy, LayoutList, ChevronDown, ChevronUp, Calendar } from 'lucide-react';
+import { Search, Monitor, Tv, Projector, Activity, X, Image, BookOpen, Sparkles, Wrench, Trophy, LayoutList, ChevronDown, ChevronUp, Calendar, Map } from 'lucide-react';
 import { hubData, getAllTopics, getScreenById } from '../data/hubDataNew';
 import './Dashboard.css';
 
@@ -134,10 +134,16 @@ function Dashboard() {
             <h1>STC Immersive Hub</h1>
             <p className="header-subtitle">Physical Screens & Content Management</p>
           </div>
-          <Link to="/timeline" className="timeline-nav-button">
-            <Calendar size={20} />
-            Project Timeline
-          </Link>
+          <div className="header-nav-buttons">
+            <Link to="/journey" className="nav-button">
+              <Map size={20} />
+              Visitor Journey
+            </Link>
+            <Link to="/timeline" className="nav-button">
+              <Calendar size={20} />
+              Project Timeline
+            </Link>
+          </div>
         </div>
       </header>
 
