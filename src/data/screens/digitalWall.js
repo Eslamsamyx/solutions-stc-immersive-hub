@@ -15,334 +15,56 @@ export const digitalWallScreen = {
   isTabbedView: true,
   topics: [
     {
-      id: 'who-we-are-success-stories',
-      name: 'Who We Are and Success Stories',
+      id: 'who-we-are',
+      name: 'Who We Are',
       type: 'content',
       content: {
-        title: 'Who We Are and Success Stories',
+        title: 'Who We Are',
         description: 'Saudi Arabia\'s #1 Digital Transformation Enabler',
         mediaType: 'company-overview',
         explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
 
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Who We Are</h4>
-<p style="margin-bottom: 1rem;">Saudi Arabia's #1 Digital Transformation Enabler – powering Vision 2030 with end-to-end ICT, Cloud, AI, Cybersecurity, and Smart City solutions.</p>
+<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1.5rem;">Who We Are</h4>
 
-<ul style="margin-bottom: 1rem;">
-  <li><strong>25+ Years</strong> driving ICT excellence</li>
-  <li><strong>170+ Global & Local Partners</strong> (Microsoft, Huawei, VMware, Nile, and more)</li>
-  <li><strong>Hundreds of Enterprises Served</strong> – across government, healthcare, banking, education, energy, and smart cities</li>
-  <li><strong>Global Recognition</strong> – 5+ international awards in 2023 for smart city, healthcare, and fintech projects</li>
+<p style="margin-bottom: 2rem; font-size: 1.1rem; line-height: 1.9; color: #1f2937;">
+Saudi Arabia's #1 Digital Transformation Enabler – powering Vision 2030 with end-to-end ICT, Cloud, AI, Cybersecurity, and Smart City solutions.
+</p>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">Key Figures</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 0.5rem;"><strong>25+ Years</strong> driving ICT excellence</li>
+  <li style="margin-bottom: 0.5rem;"><strong>170+ Global & Local Partners</strong> including Microsoft, Huawei, VMware, and Nile</li>
+  <li style="margin-bottom: 0.5rem;"><strong>Hundreds of Enterprises Served</strong> across government, healthcare, banking, education, energy, and smart cities</li>
 </ul>
 
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Solutions by stc Value Chain</h4>
-<p style="margin-bottom: 1rem;"><strong>One Partner, Every Step of Your Digital Journey</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li><strong>Enable</strong> – System Integration, Connectivity, Cloud Infrastructure</li>
-  <li><strong>Manage</strong> – Outsourcing, Managed Services, Cybersecurity Integration</li>
-  <li><strong>Scale</strong> – IoT Platforms, AI Solutions, Industry-Specific Applications</li>
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">Awards and Recognition</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 0.5rem;">5+ Global Awards (2023)</li>
+  <li style="margin-bottom: 0.5rem;">Project Management Institute (PMI) Award</li>
+  <li style="margin-bottom: 0.5rem;">International Project Management Association (IPMA) Award</li>
+  <li style="margin-bottom: 0.5rem;">Glotel Award (for fully digitized Smart Medical City)</li>
+  <li style="margin-bottom: 0.5rem;">Partner of the Year 2022/2023 from top vendors (Cloud, Networking, Cybersecurity)</li>
+  <li style="margin-bottom: 0.5rem;">Recognized as Sovereign Cloud Provider in Saudi Arabia (2022)</li>
 </ul>
 
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Success Stories</h4>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Smart City – Misk Foundation</h5>
-<p style="margin-bottom: 1rem;">Building ICT infrastructure & command centers for the world's first non-profit city.</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Smart Parking – Riyadh</h5>
-<p style="margin-bottom: 1rem;">IoT + real-time data to optimize parking, reduce traffic congestion.</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">E-Billing Platform</h5>
-<p style="margin-bottom: 1rem;">Saudi's first national e-invoicing system – streamlining finance at scale.</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Smart Medical City</h5>
-<p style="margin-bottom: 1rem;">Award-winning fully digital hospital ecosystem.</p>
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Sister Companies – Our Innovation Powerhouse</h4>
-
-<p style="margin-bottom: 1rem;">A core strength of Solutions by STC is its network of sister companies and strategic partners – specialized firms (many acquired or invested in by Solutions) that broaden the range of solutions and industry expertise available under the STC umbrella. In the context of the Innovation Lab, these sister companies demonstrate "world-class innovative capabilities" that, combined with Solutions by STC, create end-to-end technological possibilities. Below is an overview of each key subsidiary/affiliate, their offerings, industry focus, and any notable success stories:</p>
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Giza Systems (and Giza Arabia) – Industry-Focused System Integrator</h4>
-
-<p style="margin-bottom: 1rem;">Giza Systems (headquartered in Egypt) is one of the Middle East's leading digital transformation enablers and systems integrators, established in 1974. Solutions by STC completed the acquisition of ~88.2% of Giza Systems in October 2022, making it a sister company. Giza Systems specializes in designing and deploying industry-specific technology solutions for asset-intensive sectors such as Telecom, Utilities, Oil & Gas, Transportation/Smart Mobility, and more. It has a presence in over 25 countries worldwide, serving clients across the Middle East, Africa, and beyond.</p>
-
-<p style="margin-bottom: 1rem;">Giza's capabilities span systems and application integration, automation, and emerging technologies. For example, Giza has deep expertise in telecom OSS/BSS integration (it became the No.1 OSS/BSS provider in Egypt by 2004), utility sector automation (smart grids, smart meters), and public sector solutions. Giza Arabia, the KSA-based subsidiary (established 2006), has over 600 professionals in Saudi and is instrumental in delivering projects locally. Giza Arabia recently expanded into enterprise software services by acquiring Logical Applications for Business Solutions (LABS), a top SAP Gold Partner. This move enhances Giza's ability to provide 360° digital transformation solutions, including ERP and analytics, to government and enterprise clients in Saudi Arabia.</p>
-
-<p style="margin-bottom: 1rem;"><strong>Success stories:</strong> Giza Systems has an extensive project portfolio. In telecom, it has led OSS/BSS overhauls for operators; in smart cities, Giza delivered integrated command & control centers and intelligent transportation systems. Giza's subsidiary VAS (VAS Integrated Solutions) is a distributor for Dell Technologies, and in 2024 Solutions by STC leveraged VAS to become a direct Dell distributor in KSA – an example of cross-company synergy improving offerings. Giza has also implemented advanced solutions like smart building management in Africa and smart mobility systems. Overall, Giza's strong industry domain knowledge complements Solutions by STC's breadth, allowing the combined entity to deliver specialized solutions (e.g. utility automation with STC connectivity, or telecom solutions with STC's cloud and network).</p>
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Nile – Secure Network-as-a-Service (NaaS) Provider</h4>
-
-<p style="margin-bottom: 1rem;">Nile is a Silicon Valley-based provider of next-generation enterprise networking, delivering campus networks "as a service." In 2023, Solutions by STC announced a strategic investment in Nile and a partnership to exclusively offer Nile's Network-as-a-Service (NaaS) solutions in the Middle East. Founded by industry veterans (including ex-Cisco leaders), Nile has quickly gained a reputation for its secure, cloud-managed wired and wireless networking solutions delivered entirely via subscription.</p>
-
-<p style="margin-bottom: 1rem;">For Solutions by STC, Nile brings cutting-edge networking technology – high-performance Wi-Fi 6/6E and switching with built-in security and AI-driven management – which enriches STC's Connectivity and Managed Services portfolio. Together, Solutions and Nile are working to redefine enterprise networking in Saudi Arabia and the region by providing fully managed, scalable campus network services that reduce complexity for customers. The partnership covers Saudi and neighboring markets (Kuwait, Bahrain, Oman, Egypt), positioning Solutions by STC as a regional pioneer in offering NaaS. This is especially relevant for smart buildings, hospitals, universities, and large offices that seek agile network infrastructure. While Nile is a newer startup, its innovative approach (secure connectivity delivered like a utility) aligns with STC's vision for modern, software-defined networks. As a success milestone, Nile's technology and Solutions by STC's market reach combined to raise a $175M funding round (co-led by STC's venture arm) to fuel this joint venture.</p>
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">AvidBeam – AI Video Analytics and Smart Surveillance</h4>
-
-<p style="margin-bottom: 1rem;">AvidBeam is an artificial intelligence video analytics company that became part of the STC family via Giza Systems' investments. Giza acquired a stake in AvidBeam in 2021 and today Solutions by STC (through Giza) owns majority stakes in AvidBeam's regional entities. AvidBeam specializes in advanced computer vision and big data video processing – essentially turning live camera feeds and video archives into actionable insights using AI. Its solutions are used in smart cities, security, traffic management, retail analytics, and industrial monitoring. For example, AvidBeam's software can analyze CCTV footage in real-time to detect and track vehicles for intelligent traffic control or perform facial recognition for security and visitor management.</p>
-
-<p style="margin-bottom: 1rem;">One notable success is AvidBeam's project with the King Abdullah Petroleum Studies and Research Center (KAPSARC) in Riyadh. AvidBeam was awarded a mega-project by KAPSARC to deploy AI-powered video analytics solutions, including AvidFace (a smart face recognition system for people flow monitoring) and AvidGuard (an intelligent early warning system for operations and law enforcement in smart campuses). These solutions set new benchmarks for security and efficiency in Saudi, demonstrating how AI can enhance safety in research and commercial communities. By integrating AvidBeam's capabilities, Solutions by STC can offer smart surveillance, crowd analytics, and traffic monitoring solutions as part of its smart city and public safety offerings. This has cross-company synergy – e.g. pairing STC's IoT connectivity and cloud with AvidBeam's AI analytics to deliver end-to-end "safe city" platforms. AvidBeam's technology also complements STC's telecom infrastructure by driving demand for edge computing (processing video at network edge) and high-bandwidth connectivity (for streaming video data).</p>
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">ARIA Technologies – Industrial Automation and Robotics</h4>
-
-<p style="margin-bottom: 1rem;">ARIA Technologies is a Giza Systems subsidiary (60% owned) launched in 2021 to focus on industrial automation, robotics, and smart manufacturing. ARIA is essentially an Original Equipment Manufacturer (OEM) and systems integrator for advanced factory automation solutions, including robotic arms, automated guided vehicles, machine vision systems, and Industrial IoT. It targets manufacturing companies in sectors like industrial goods, electronics, and petrochemicals, helping them optimize production through technology. ARIA provides turnkey automation and energy optimization solutions to these industries, often implementing complete assembly line automation or energy management systems for factories.</p>
-
-<p style="margin-bottom: 1rem;">One example of ARIA's innovative work is its high-speed QR code and barcode scanning solution unveiled at the ARIA Automation Lab in collaboration with Cognex. This solution integrates Cognex machine vision systems to achieve extremely fast and accurate scanning in manufacturing lines – setting a new standard in industrial automation for quality control and tracking. ARIA is also involved in robotic welding solutions and other Industry 4.0 technologies to improve precision and reduce downtime in production. As part of Solutions by STC's family, ARIA brings expertise in smart factory (Industry 4.0) technologies. This means Solutions by STC can jointly offer to clients in the manufacturing sector a combination of ARIA's automation hardware/software with STC's connectivity (5G private networks in factories), edge computing, and IoT platforms. The result is a comprehensive Smart Manufacturing proposition under the STC umbrella. ARIA's focus on innovation and lab prototypes (such as its Automation Lab) also makes it a great showcase in the Innovation Hub for cutting-edge industrial tech.</p>
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Devoteam Middle East – Digital Transformation Consulting</h4>
-
-<p style="margin-bottom: 1rem;">Devoteam Middle East is the regional arm of Devoteam, a global consulting firm specializing in digital strategy, technology consulting, and IT services. In early 2024, Solutions by STC completed the acquisition of a 40% stake in Devoteam Middle East, forging a strategic partnership to combine strengths. Devoteam is renowned for its expertise in areas like cloud computing, data analytics, artificial intelligence, cybersecurity, and IT service management – essentially, high-end consulting and professional services that guide organizations through digital transformation. This partnership brings together Solutions by STC's delivery capabilities with Devoteam's consulting and design expertise.</p>
-
-<p style="margin-bottom: 1rem;">As Solutions' CEO put it, the alliance enables "seamlessly integrated and innovative services, adhering to the highest digital standards to meet evolving market demands." From strategy through design to execution, clients will benefit from the combined portfolio.</p>
-
-<p style="margin-bottom: 1rem;">In practice, Devoteam consultants can work alongside Solutions by STC teams to, for example, craft a digital transformation roadmap for a customer, implement IT Service Management (ITSM) solutions (Devoteam is strong in ServiceNow and ITIL practices), or develop data governance frameworks – which Solutions can then execute and manage. Devoteam's global experience (originating from Europe) and methodologies enhance the "consultative" and innovative dimension of Solutions by STC's offerings. Already, Devoteam and Solutions by STC have signed an MoU to explore joint investments and collaborations in emerging tech areas. For the Innovation Lab, Devoteam's involvement highlights thought leadership in new tech (e.g. how to leverage AI responsibly, how to implement agile enterprises), adding a strong advisory component to the showcased solutions.</p>
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Upsource by Solutions – Premier BPO and Customer Experience Provider</h4>
-
-<p style="margin-bottom: 1rem;">Upsource by Solutions is Solutions by STC's Business Process Outsourcing subsidiary, focused on delivering outsourced services like contact center operations, customer care, tech support, and back-office processing. Founded in 2011 and now wholly owned by Solutions, Upsource is Saudi Arabia's premier BPO provider. Impressively, Upsource serves over 100+ clients across diverse industries with a workforce of 9,000+ employees. It operates multiple delivery centers (in Riyadh, Jeddah, Qassim, and Madinah) and was the first BPO in the Kingdom to achieve COPC certification for operational excellence.</p>
-
-<p style="margin-bottom: 1rem;">Upsource's core offerings include managing large customer contact centers (voice, email, chat support), handling back-office processes (finance & accounting, HR services), and providing technical helpdesks – all tailored for the local market but at global standards. Upsource blends local expertise with global best practices in customer experience, which is evidenced by partnerships like the recent alliance with Cognizant (Feb 2025). In that partnership, Upsource and Cognizant are bringing advanced AI and automation into BPO services – e.g. deploying GenAI-powered solutions for finance operations and automated workflows – to enhance efficiency for enterprises in Saudi. Upsource's CEO, Eng. Naif AlMogbel, noted that by aligning with Cognizant, they aim to "reshape what excellence in BPO means" and create future-ready solutions that redefine value for clients.</p>
-
-<p style="margin-bottom: 1rem;">In terms of success stories, Upsource has been instrumental in running customer service centers for major Saudi organizations (telecom operators, banks, government services). Its scale (9000+ staff) suggests it likely powers some of the largest call centers in the country, delivering millions of customer interactions. For Solutions by STC, Upsource adds a crucial piece in the value chain: outsourced human capital. It means Solutions can not only provide technology solutions, but also the people and process operation to run those solutions. For example, for a smart city command center or a new digital platform, Solutions can supply the platform and via Upsource supply the 24/7 operational staff to manage it – a compelling end-to-end value proposition.</p>
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Logical Applications for Business Solutions (LABS) – SAP Solutions Specialist</h4>
-
-<p style="margin-bottom: 1rem;">LABS (Logical Applications for Business Solutions Co.) is a leading SAP Gold Partner in the Middle East, specializing in enterprise software solutions and consulting. In August 2024, Giza Arabia (and by extension Solutions by STC) acquired a majority stake in LABS. LABS is an established player with over 10 years of experience in implementing and supporting SAP solutions for organizations of all sizes. Headquartered in Jeddah with operations in Saudi Arabia, Egypt, Bahrain, and the UAE, LABS has a team of 100+ highly skilled SAP consultants covering the full suite of SAP products. It is also a certified SAP Partner Center of Expertise (PCoE), which attests to its high standards in SAP service delivery.</p>
-
-<p style="margin-bottom: 1rem;">LABS' offerings include SAP Business Applications (ERP, CRM, SCM), Business Intelligence & Analytics (including SAP Analytics Cloud), Enterprise Mobility, and database and technology services around SAP's platform. By integrating LABS, Solutions by STC can now deliver comprehensive enterprise application solutions – essentially, it can not only provide the infrastructure and integration, but also the core business applications that run on top. LABS significantly enhances the group's capabilities in sectors like government and large enterprise where SAP is prevalent. For example, LABS and Solutions by STC can jointly approach a government entity to offer a full digital transformation: modernize their data center (Solutions), implement SAP S/4HANA for their ERP (LABS), and manage the whole environment post go-live (Solutions Managed Services).</p>
-
-<p style="margin-bottom: 1rem;">This acquisition opens up new cross-selling opportunities. Giza Arabia's CEO noted that LABS' expertise perfectly aligns with Giza's mission and will help explore new sectors, especially in government, by providing 360° solutions encompassing SAP + cloud. One immediate joint offering is deploying SAP Analytics Cloud for clients to gain real-time insights from both SAP and non-SAP systems, which LABS is adept at. In summary, LABS adds the enterprise software layer to Solutions by STC's stack. A success story for LABS itself is its award-winning SAP implementations – LABS has earned multiple awards from SAP for quality and has strong testimonials from clients for improving business outcomes. As part of STC's innovation showcase, LABS demonstrates capabilities in ERP digitization and advanced analytics, which are key for any digital enterprise scenario.</p>
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">"Stronger-Together" Joint Value Propositions</h4>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Smart Cities & Municipal Ops</h5>
-<p style="margin-bottom: 1rem;">AvidBeam analytics + Giza OT/IoT + Nile NaaS + LABS SAP citizen/fee platforms + Devoteam cloud & cyber + upsource CX → citywide parking, safety, utilities & citizen services (backed by stc cloud/network).</p>
-<p style="margin-bottom: 1rem;"><strong>Proof point:</strong> Riyadh Smart Parking with 18,000 AI cameras.</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Industry 4.0 / Smart Manufacturing</h5>
-<p style="margin-bottom: 1rem;">ARIA robotics & vision + Giza OT + Devoteam data/AI + stc private 5G/edge + LABS S/4HANA + upsource shared services → connected factory from shopfloor to ERP.</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Secure Campus Connectivity</h5>
-<p style="margin-bottom: 1rem;">Nile MEA NaaS + stc managed security/SOC + Devoteam cloud security + upsource service desk → zero-trust autonomous campuses for universities, healthcare, HQs.</p>
-<p style="margin-bottom: 1rem;"><strong>Proof point:</strong> LEAP 2025 deployment; University of Denver case.</p>
-
-</div>`,
-        image: images.E4
-      }
-    },
-    {
-      id: 'strategic-partnerships',
-      name: 'Strategic Partnerships',
-      type: 'content',
-      content: {
-        title: 'Huawei + Solutions by stc',
-        description: 'Pioneering Smart Cities Together',
-        mediaType: 'partnerships',
-        explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Pioneering Smart Cities Together</h4>
-<p style="margin-bottom: 1rem;">MoU Signed to co-create smart city solutions (parking, lighting, AI surveillance).</p>
-<p style="margin-bottom: 1rem;">Huawei Cloud + STC hosting for local compliance.</p>
-<p style="margin-bottom: 1rem;"><strong>Joint Value:</strong> Global ICT leader + Saudi integration powerhouse = future-ready cities.</p>
-
-</div>`,
-        image: images.E4
-      }
-    },
-    {
-      id: 'group-value-propositions',
-      name: 'Group Value Propositions',
-      type: 'content',
-      content: {
-        title: 'Group Value Propositions to Clients',
-        description: 'Comprehensive digital transformation services',
-        mediaType: 'services-overview',
-        explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Digital Transformation Enablement</h5>
-<p style="margin-bottom: 1rem;">Experience design, app development & modernization, enterprise and business application implementation/integration</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Advanced Connectivity Solutions</h5>
-<p style="margin-bottom: 1rem;">Connectivity services, enterprise networks, private 5G, managed network service</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Cloud Transformation & Multicloud Mgmt</h5>
-<p style="margin-bottom: 1rem;">Cloud Infrastructure, multi-cloud services, hyperscaler solutions, software as a service</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Cybersecurity and Risk Management</h5>
-<p style="margin-bottom: 1rem;">Advisory and integration, managed security services, security operations center, physical security & IAM</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Data Analytics and AI Solutions</h5>
-<p style="margin-bottom: 1rem;">Data & analytics services, AI infrastructure, AI enablement and AI industry use cases</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Industry-Specific Digital Solutions</h5>
-<p style="margin-bottom: 1rem;">Healthcare specialized solutions, smart solutions, industry 4.0 solutions, banking and fintech enablement</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Operational Excellence & Managed Services</h5>
-<p style="margin-bottom: 1rem;">Managed services, BPO, manpower, project management and technical governance</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Infrastructure Modernization & Facility Dev</h5>
-<p style="margin-bottom: 1rem;">IT infrastructure and systems, data center, command and operations facilities, OT</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Customer Exp and Engagement Enhancement</h5>
-<p style="margin-bottom: 1rem;">Experience design, conversational AI, mobile messaging services, application development</p>
-
-<h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">Services for Telecom Providers</h5>
-<p style="margin-bottom: 1rem;">Core network services, telco cloud solutions, open radio access network (Open RAN) solutions</p>
-
-</div>`,
-        image: images.E4
-      }
-    },
-    {
-      id: 'solutions-timeline',
-      name: 'Solutions Timeline',
-      type: 'content',
-      content: {
-        title: 'Delivering Since Day One',
-        description: 'Our journey from 1995 to present',
-        mediaType: 'interactive-timeline',
-        explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
-
-<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Delivering Since Day One</h4>
-
-<div style="position: relative; padding: 2rem 0;">
-  <!-- Timeline Line -->
-  <div style="position: absolute; left: 50%; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, #5B21B6, #9333EA); transform: translateX(-50%);"></div>
-
-  <!-- Timeline Items -->
-  <div style="display: flex; flex-direction: column; gap: 3rem;">
-
-    <!-- 1995 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">1995</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #5B21B6; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #5B21B6;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">AwalNet receives Internet Service Provider (ISP) license</p>
-      </div>
-    </div>
-
-    <!-- 2002 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2002</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #6D28D9; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #6D28D9;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">Naseej, AwalNet and Alamiah.net merge to create largest ISP consortium</p>
-      </div>
-    </div>
-
-    <!-- 2007 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2007</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #7C3AED; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #7C3AED;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">stc acquires AwalNet</p>
-      </div>
-    </div>
-
-    <!-- 2009 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2009</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #8B5CF6; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #8B5CF6;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">Building capabilities for System Integration</p>
-      </div>
-    </div>
-
-    <!-- 2011-2015 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2011-2015</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #9333EA; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #9333EA;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">Investing in building cloud platforms and offering cloud technologies</p>
-      </div>
-    </div>
-
-    <!-- 2017 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2017</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #A855F7; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #A855F7;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">solutions launches: satellite communications and cyber security services, Internet of Things (IoT) systems</p>
-      </div>
-    </div>
-
-    <!-- 2018 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2018</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #B47BFF; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #B47BFF;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">Building capabilities to develop digital applications and automate data and analysis services</p>
-      </div>
-    </div>
-
-    <!-- 2019 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2019</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #C084FC; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #C084FC;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">solutions by stc has launched its new brand identity</p>
-      </div>
-    </div>
-
-    <!-- 2021 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2021</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #D8B4FE; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #D8B4FE;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">Listed on the Saudi stock market</p>
-      </div>
-    </div>
-
-    <!-- 2022 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2022</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #9333EA; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #9333EA;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">solutions acquires Giza Systems</p>
-      </div>
-    </div>
-
-    <!-- 2023 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2023</h5>
-      </div>
-      <div style="width: 20px; height: 20px; background: #8B5CF6; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #8B5CF6;"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">solutions acquires CCC, strategic investment in nile, exclusive partnership with SingleStore</p>
-      </div>
-    </div>
-
-    <!-- 2024 -->
-    <div style="display: flex; align-items: center; position: relative;">
-      <div style="flex: 1; text-align: right; padding-right: 2rem;">
-        <h5 style="margin: 0; font-size: 1.5rem; color: #5B21B6; font-weight: bold;">2024</h5>
-      </div>
-      <div style="width: 24px; height: 24px; background: #A855F7; border: 4px solid white; border-radius: 50%; z-index: 1; box-shadow: 0 0 0 2px #A855F7, 0 0 20px rgba(168, 85, 247, 0.5);"></div>
-      <div style="flex: 1; padding-left: 2rem;">
-        <p style="margin: 0; font-weight: 600;">solutions acquires a 40% stake in devoteam Middle East</p>
-      </div>
-    </div>
-
-  </div>
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2.5rem;">Solutions by stc Value Chain</h5>
+<p style="margin-bottom: 1.25rem; font-weight: 600; font-size: 1.05rem; color: #374151;">One Partner, Every Step of Your Digital Journey</p>
+
+<div style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border-left: 4px solid #6366F1;">
+  <h6 style="color: #6366F1; font-weight: 600; margin-bottom: 0.5rem; font-size: 1.05rem;">Enable</h6>
+  <p style="margin: 0; color: #4b5563;">System Integration, Connectivity, Cloud Infrastructure</p>
 </div>
+
+<div style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; border-left: 4px solid #8B5CF6;">
+  <h6 style="color: #8B5CF6; font-weight: 600; margin-bottom: 0.5rem; font-size: 1.05rem;">Manage</h6>
+  <p style="margin: 0; color: #4b5563;">Outsourcing, Managed Services, Cybersecurity Integration</p>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(99, 102, 241, 0.05) 0%, rgba(139, 92, 246, 0.05) 100%); padding: 1.5rem; border-radius: 12px; border-left: 4px solid #A855F7;">
+  <h6 style="color: #A855F7; font-weight: 600; margin-bottom: 0.5rem; font-size: 1.05rem;">Scale</h6>
+  <p style="margin: 0; color: #4b5563;">IoT Platforms, AI Solutions, Industry-Specific Applications</p>
+</div>
+
 
 </div>`,
         image: images.E4
@@ -558,6 +280,447 @@ export const digitalWallScreen = {
 </ul>
 
 <p style="margin-bottom: 1rem;"><em>Entities to Highlight: Solutions by STC, Upsource</em></p>
+
+</div>`,
+        image: images.E4
+      }
+    },
+    {
+      id: 'group-value-propositions',
+      name: 'Group Value Propositions',
+      type: 'content',
+      content: {
+        title: 'Group Value Propositions',
+        description: 'Comprehensive solutions across the digital landscape',
+        mediaType: 'group-value-propositions',
+        explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
+
+<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1.5rem;">Group Value Propositions</h4>
+
+<p style="margin-bottom: 2rem; font-size: 1.1rem; line-height: 1.9; color: #1f2937; font-weight: 600;">
+Holistic Digital Capabilities
+</p>
+
+<ol style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 1rem;">
+    <strong>Digital Transformation Enablement</strong>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>Experience design, application development & modernization</li>
+      <li>Enterprise and business application implementation & integration</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Advanced Connectivity Solutions</strong>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>Connectivity services, enterprise networks</li>
+      <li>Private 5G, managed network services</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Cloud Transformation & Multicloud Management</strong>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>Cloud infrastructure, multi-cloud services</li>
+      <li>Hyperscaler solutions, Software-as-a-Service</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Cybersecurity & Risk Management</strong>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>Advisory and integration</li>
+      <li>Managed security services, SOC, physical security, IAM</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Data Analytics & AI Solutions</strong>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>Data & analytics services, AI infrastructure</li>
+      <li>AI enablement and industry-specific AI use cases</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Industry-Specific Digital Solutions</strong>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>Healthcare solutions</li>
+      <li>Smart city solutions</li>
+      <li>Industry 4.0 manufacturing</li>
+      <li>Banking & fintech enablement</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Operational Excellence & Managed Services</strong>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>Managed services, BPO</li>
+      <li>Manpower outsourcing</li>
+      <li>Project management & governance</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Infrastructure Modernization & Facility Development</strong>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>IT infrastructure & systems</li>
+      <li>Data centers, command & operations facilities, OT</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Customer Experience & Engagement Enhancement</strong>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>Experience design, conversational AI</li>
+      <li>Mobile messaging services, application development</li>
+    </ul>
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Services for Telecom Providers</strong>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>Core network services</li>
+      <li>Telco cloud solutions</li>
+      <li>Open Radio Access Network (Open RAN)</li>
+    </ul>
+  </li>
+</ol>
+
+</div>`,
+        image: images.E4
+      }
+    },
+    {
+      id: 'success-stories',
+      name: 'Success Stories',
+      type: 'content',
+      content: {
+        title: 'Success Stories',
+        description: 'Proven track record of digital transformation',
+        mediaType: 'success-stories',
+        explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
+
+<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1.5rem;">Success Stories</h4>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">Smart City / Municipal</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 1rem;">
+    <strong>Misk Foundation – Smart City Infrastructure</strong><br/>
+    Building ICT infrastructure & command centers for the world's first non-profit city (Prince Mohammed Bin Salman Nonprofit City).
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Riyadh Smart Parking</strong><br/>
+    IoT + AI video analytics with 18,000 AI cameras across the city (with Remat, Giza, AvidBeam).<br/>
+    Optimized parking, reduced congestion, enabled digital city management.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Public-Private Partnership (PPP) – Jeddah (Amanah Tech JV)</strong><br/>
+    Digitizing municipal & urban projects with Jeddah Development & Urban Regeneration Co.<br/>
+    Focus on smart infrastructure, IT, and managed services.
+  </li>
+</ul>
+
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;" />
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem;">Healthcare</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 1rem;">
+    <strong>Award-Winning Smart Medical City</strong><br/>
+    Fully digital hospital ecosystem.<br/>
+    Won a Global Telecom Award for innovation.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Healthcare Solutions</strong><br/>
+    Industry-specific integrated ICT systems for medical facilities, citizen/patient-centric digital platforms.
+  </li>
+</ul>
+
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;" />
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem;">Financial / Government</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 1rem;">
+    <strong>Saudi National E-Invoicing Platform</strong><br/>
+    First of its kind at national scale.<br/>
+    Streamlined finance & billing processes across the Kingdom.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>National Water Company Strategic Agreement (BPO)</strong><br/>
+    Enhancing customer service & operations through upsource CX.
+  </li>
+</ul>
+
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;" />
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem;">Education / Campus Connectivity</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 1rem;">
+    <strong>LEAP 2025 Riyadh – World's Largest Campus NaaS Deployment</strong><br/>
+    By Nile + Solutions by stc.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>University Deployments</strong><br/>
+    Including University of Denver case referenced in joint venture proof points.
+  </li>
+</ul>
+
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;" />
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem;">Industry & Smart Manufacturing</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 1rem;">
+    <strong>ARIA Technologies – Industry 4.0 Projects</strong><br/>
+    High-speed QR/barcode scanning (with Cognex).<br/>
+    Robotic welding & smart manufacturing automation.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Giza Systems Projects</strong><br/>
+    Integrated command & control centers.<br/>
+    Intelligent transportation & smart mobility solutions.<br/>
+    Utility sector automation (smart grids, smart meters).
+  </li>
+</ul>
+
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;" />
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem;">Infrastructure & Cloud</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 1rem;">
+    <strong>Mega Data Center Projects</strong><br/>
+    Built one of the largest data centers in the region.<br/>
+    Recognized by PMI & IPMA awards for project excellence.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Cloud Partnerships</strong><br/>
+    Recognized as Sovereign Cloud Provider in Saudi Arabia (2022).<br/>
+    Multi-cloud implementations with Microsoft Azure, VMware, Huawei Cloud.
+  </li>
+</ul>
+
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;" />
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem;">Awards & Global Recognition</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 0.5rem;">5+ International Awards (2023) across Smart City, Healthcare, Fintech.</li>
+  <li style="margin-bottom: 0.5rem;">PMI & IPMA Awards for mega ICT projects.</li>
+  <li style="margin-bottom: 0.5rem;">Partner of the Year 2022/2023 from major vendors (Cloud, Networking, Cybersecurity).</li>
+</ul>
+
+</div>`,
+        image: images.E4
+      }
+    },
+    {
+      id: 'awards-recognition',
+      name: 'Awards and Recognition',
+      type: 'content',
+      content: {
+        title: 'Awards and Recognition',
+        description: 'Global recognition for excellence and innovation',
+        mediaType: 'awards-recognition',
+        explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
+
+<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1.5rem;">Awards & Global Recognition</h4>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">Awards</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 1rem;">
+    <strong>5+ International Awards (2023)</strong><br/>
+    Domains: Smart City, Healthcare, Fintech projects.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Project Management Institute (PMI) Award</strong><br/>
+    For excellence in delivering mega ICT infrastructure projects.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>International Project Management Association (IPMA) Award</strong><br/>
+    For execution of large-scale, complex digital transformation programs.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Glotel Award (Global Telecoms Awards)</strong><br/>
+    For developing a fully digitized Smart Medical City.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Partner of the Year (2022/2023) from top global vendors</strong><br/>
+    Recognized across Cloud, Networking, and Cybersecurity categories.
+  </li>
+</ul>
+
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;" />
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem;">Recognition / Credentials</h5>
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 1rem;">
+    <strong>Recognized as Sovereign Cloud Provider in Saudi Arabia (2022)</strong><br/>
+    Accredited for delivering fully compliant, Saudi-hosted cloud services.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Ranked repeatedly as #1 IT Consulting & Services firm in KSA</strong><br/>
+    By IDC and Consultancy-ME (highlighted under Devoteam acquisition).
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Vendor Recognitions (2022–2024)</strong><br/>
+    Multiple "Partner of the Year" and vendor excellence awards from:<br/>
+    <ul style="margin-top: 0.5rem; margin-left: 1.5rem;">
+      <li>Microsoft Azure (cloud enablement & hosting)</li>
+      <li>VMware (sovereign cloud in KSA)</li>
+      <li>Huawei (cloud & networking collaboration)</li>
+      <li>Cybersecurity leaders (Zero Trust, SOC implementation awards)</li>
+    </ul>
+  </li>
+</ul>
+
+</div>`,
+        image: images.E4
+      }
+    },
+    {
+      id: 'sister-companies',
+      name: 'Sister Companies',
+      type: 'content',
+      content: {
+        title: 'Sister Companies',
+        description: 'Our innovation powerhouse across industries',
+        mediaType: 'sister-companies',
+        explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
+
+<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1.5rem;">Sister Companies</h4>
+
+<p style="margin-bottom: 2rem; font-size: 1.05rem; line-height: 1.9; color: #1f2937;">
+A core strength of Solutions by stc is its network of sister companies and affiliates. Together, we bring world-class expertise across industries — enabling end-to-end transformation under one group.
+</p>
+
+<ul style="margin-bottom: 2rem;">
+  <li style="margin-bottom: 1rem;">
+    <strong>Giza Systems & Giza Arabia</strong><br/>
+    Industry-leading systems integrator with presence in 25+ countries; expertise in utilities, telecom, oil & gas, and smart mobility.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Nile</strong><br/>
+    Pioneer of Network-as-a-Service; delivering secure, autonomous campus networks; LEAP 2025 Riyadh: world's largest campus NaaS.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>AvidBeam</strong><br/>
+    AI video analytics at city scale; powering Riyadh Smart Parking with 18,000 cameras, plus retail and security analytics.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>ARIA Technologies</strong><br/>
+    Robotics and smart manufacturing arm; Industry 4.0 automation with private 5G + machine vision + energy optimization.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Devoteam ME</strong><br/>
+    Digital consulting leader in cloud, AI, and cybersecurity; ranked #1 IT consulting firm in KSA.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>Upsource</strong><br/>
+    KSA's premier BPO with 9,000+ employees and 100+ clients, COPC-certified, enabling AI-powered CX.
+  </li>
+  <li style="margin-bottom: 1rem;">
+    <strong>LABS (SAP Gold Partner)</strong><br/>
+    ERP and enterprise applications; 100+ consultants across KSA & GCC; regional SAP award-winner.
+  </li>
+</ul>
+
+</div>`,
+        image: images.E4
+      }
+    },
+    {
+      id: 'strategic-partnerships',
+      name: 'Strategic Partnerships',
+      type: 'content',
+      content: {
+        title: 'Huawei + Solutions by stc',
+        description: 'Pioneering Smart Cities Together',
+        mediaType: 'partnerships',
+        explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
+
+<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Pioneering Smart Cities Together</h4>
+<p style="margin-bottom: 1rem;">MoU Signed to co-create smart city solutions (parking, lighting, AI surveillance).</p>
+<p style="margin-bottom: 1rem;">Huawei Cloud + STC hosting for local compliance.</p>
+<p style="margin-bottom: 1rem;"><strong>Joint Value:</strong> Global ICT leader + Saudi integration powerhouse = future-ready cities.</p>
+
+</div>`,
+        image: images.E4
+      }
+    },
+    {
+      id: 'milestones-timeline',
+      name: 'Milestones and Timeline',
+      type: 'content',
+      content: {
+        title: 'Milestones and Timeline',
+        description: 'Our journey from 1995 to present',
+        mediaType: 'milestones-timeline',
+        explanation: `<div style="max-width: 900px; margin: 0 auto; padding: 2rem; line-height: 1.8;">
+
+<h4 style="color: #6366F1; font-size: 1.25rem; font-weight: 600; margin-bottom: 1.5rem;">Milestones and Timeline</h4>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">1995</h5>
+<ul style="margin-bottom: 2rem;">
+  <li>AwalNet receives ISP license (first major internet license in Saudi Arabia).</li>
+</ul>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">2002</h5>
+<ul style="margin-bottom: 2rem;">
+  <li>Naseej, AwalNet, Alamiah.net merge to form the largest ISP consortium in the Kingdom.</li>
+</ul>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">2007</h5>
+<ul style="margin-bottom: 2rem;">
+  <li>stc acquires AwalNet — integrating ISP services into stc Group.</li>
+</ul>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">2009</h5>
+<ul style="margin-bottom: 2rem;">
+  <li>Building capabilities in System Integration — entering ICT services beyond connectivity.</li>
+</ul>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">2011</h5>
+<ul style="margin-bottom: 2rem;">
+  <li>Launching cloud platforms and services — early cloud adoption in Saudi Arabia.</li>
+  <li>Upsource founded (BPO & CX subsidiary, now 9,000+ employees, 100+ clients).</li>
+</ul>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">2021</h5>
+<ul style="margin-bottom: 2rem;">
+  <li>solutions by stc launches new brand identity.</li>
+  <li>Listed on Tadawul (Saudi Stock Exchange).</li>
+</ul>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">2022</h5>
+<ul style="margin-bottom: 2rem;">
+  <li>Acquisition of 88.19% of Giza Systems and 34% of Giza Arabia.</li>
+  <li>Delivered Smart City Infrastructure for Misk Foundation's Prince Mohammed Bin Salman Nonprofit City.</li>
+  <li>Built one of the largest Data Centers in the region — awarded by PMI & IPMA.</li>
+  <li>Implemented Saudi Arabia's first National E-Invoicing Platform.</li>
+  <li>Recognized as Sovereign Cloud Provider in KSA (2022).</li>
+  <li>Signed MoU with Huawei to co-develop Smart City solutions.</li>
+</ul>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">2023</h5>
+<ul style="margin-bottom: 2rem;">
+  <li>Acquisition of ccc (regional SI/BPO capabilities).</li>
+  <li>Strategic investment in Nile (Network-as-a-Service pioneer).</li>
+  <li>Exclusive partnership with SingleStore (real-time data platforms).</li>
+  <li>Delivered Award-winning Smart Medical City — won Glotel Award.</li>
+  <li>Won 5+ International Awards (2023) across Smart City, Healthcare, and Fintech projects.</li>
+</ul>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">2024</h5>
+<ul style="margin-bottom: 2rem;">
+  <li>40% acquisition of Devoteam Middle East (~SAR 741.7m) — consulting strength in Cloud, AI, Cybersecurity, ITSM.</li>
+  <li>Majority acquisition of LABS (Logical Applications for Business Solutions) — SAP Gold Partner, 100+ consultants in GCC.</li>
+  <li>Became authorized Huawei Cloud Service Provider in Saudi Arabia.</li>
+  <li>Expanded Huawei partnership → SD-WAN & SASE solutions.</li>
+</ul>
+
+<h5 style="color: #6366F1; font-size: 1.15rem; font-weight: 600; margin-bottom: 1rem; margin-top: 2rem;">2025</h5>
+<ul style="margin-bottom: 2rem;">
+  <li>Launch of Nile MEA (campus NaaS in KSA & region).</li>
+  <li>LEAP 2025 Riyadh: World's largest campus NaaS deployment.</li>
+  <li>Cognizant alliance with Upsource — rolling out GenAI-powered BPO & CX solutions.</li>
+  <li>Partnership with ST Engineering iDirect — expanding satellite & IoT connectivity.</li>
+  <li>Public–Private Partnerships (PPP):
+    <ul style="margin-left: 1.5rem; margin-top: 0.5rem;">
+      <li>With Remat (Riyadh): Largest Smart Parking project in KSA (18,000 AI cameras, AvidBeam + Giza).</li>
+      <li>With Jeddah Development Co.: Municipal digital transformation.</li>
+      <li>With Sports Boulevard: Technology adoption for giga-project.</li>
+    </ul>
+  </li>
+</ul>
 
 </div>`,
         image: images.E4
