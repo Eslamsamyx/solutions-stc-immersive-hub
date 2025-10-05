@@ -193,14 +193,6 @@ const VisitorJourney = () => {
               <span className="stat-number">{journeyStats.totalZones}</span>
               <span className="stat-label">Interactive Zones</span>
             </div>
-            <div className="hero-stat">
-              <span className="stat-number">{journeyStats.totalScreens}+</span>
-              <span className="stat-label">Display Screens</span>
-            </div>
-            <div className="hero-stat">
-              <span className="stat-number">{journeyStats.averageTime}</span>
-              <span className="stat-label">Average Visit</span>
-            </div>
           </div>
           <div className="scroll-indicator">
             <HiChevronDown className="scroll-icon" />

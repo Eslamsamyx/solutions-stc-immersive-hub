@@ -86,24 +86,6 @@ Saudi Arabia's #1 Digital Transformation Enabler – powering Vision 2030 with e
 
 <p style="margin-bottom: 1rem;"><strong>Hook Line:</strong> "Great transformations start with great ideas."</p>
 
-<p style="margin-bottom: 1rem;"><strong>Screen Content:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Animated customer personas (citizen, patient, student, customer)</li>
-  <li>Journey map lights up with "before" vs "after" digital experience</li>
-  <li>Rotating visuals of UX mockups, VR design labs, service design workshops</li>
-</ul>
-
-<p style="margin-bottom: 1rem;"><strong>The message that we want to deliver to the audience is that</strong> "We start by reimagining the experience. Through service design workshops and customer journey mapping, we help organizations think big and shape ideas that truly matter."</p>
-
-<p style="margin-bottom: 1rem;"><strong>High Level Offerings:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Digital Transformation Advisory</li>
-  <li>Service design workshops</li>
-  <li>Customer journey mapping</li>
-  <li>UX/UI mockups</li>
-  <li>IT Design and Consulting</li>
-</ul>
-
 <p style="margin-bottom: 1rem;"><strong>Value to our clients:</strong></p>
 <ul style="margin-bottom: 1rem;">
   <li>Human-centered designs</li>
@@ -111,32 +93,11 @@ Saudi Arabia's #1 Digital Transformation Enabler – powering Vision 2030 with e
   <li>Seamless user experience</li>
 </ul>
 
-<p style="margin-bottom: 1rem;"><em>Entities to Highlight: Solutions by STC, Devoteam</em></p>
+<p style="margin-bottom: 1rem;"><em>Video: Frogs usecase video from Gitex 2024 and LEAP</em></p>
 
 <h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">2. Engineer - Build & Integrate</h5>
 
 <p style="margin-bottom: 1rem;"><strong>Hook Line:</strong> "Engineering the digital backbone of your business"</p>
-
-<p style="margin-bottom: 1rem;"><strong>Screen Content:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>3D visual layers (infrastructure, applications, security) snapping together as one system</li>
-  <li>Data center holograms, cyber shields, app icons merging</li>
-  <li>Overlay text: Integration | Development | Cybersecurity</li>
-</ul>
-
-<p style="margin-bottom: 1rem;"><strong>The message that we want to deliver to the audience is that</strong> "Once the idea is shaped, we engineer it into reality. From data centers and applications to cyber-secure networks, solutions by stc brings the entire backbone of your digital enterprise to life"</p>
-
-<p style="margin-bottom: 1rem;"><strong>High Level Offerings:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Innovation Labs</li>
-  <li>Datacenters Build</li>
-  <li>Command and Control Centers</li>
-  <li>Enterprise Networks</li>
-  <li>Physical Security</li>
-  <li>Workplace Modernization</li>
-  <li>Application Services</li>
-  <li>Operational Technology</li>
-</ul>
 
 <p style="margin-bottom: 1rem;"><strong>Value to our clients:</strong></p>
 <ul style="margin-bottom: 1rem;">
@@ -145,29 +106,9 @@ Saudi Arabia's #1 Digital Transformation Enabler – powering Vision 2030 with e
   <li>Scalability-ready architecture</li>
 </ul>
 
-<p style="margin-bottom: 1rem;"><em>Entities to Highlight: Solutions by STC, Giza Systems</em></p>
-
 <h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">3. Connect - Connectivity</h5>
 
 <p style="margin-bottom: 1rem;"><strong>Hook Line:</strong> "Connecting people, places, and possibilities"</p>
-
-<p style="margin-bottom: 1rem;"><strong>Screen Content:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Interactive world map → touch a location, see fiber, satellite, and wireless lines light up</li>
-  <li>Animated signals from satellites, 5G towers, and fiber lines</li>
-  <li>Key visuals: fiber optics, satellites, wireless mesh</li>
-</ul>
-
-<p style="margin-bottom: 1rem;"><strong>The message that we want to deliver to the audience is that</strong> "No matter where you are — in a smart city hub or a remote desert — our connectivity solutions keep people and enterprises always-on, through high-speed fiber, 5G, and satellite"</p>
-
-<p style="margin-bottom: 1rem;"><strong>High Level Offerings:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Dedicated internet services</li>
-  <li>Satellite Connectivity (GEO & LEO)</li>
-  <li>Messaging solutions</li>
-  <li>Private 5G</li>
-  <li>SD-WAN</li>
-</ul>
 
 <p style="margin-bottom: 1rem;"><strong>Value to our clients:</strong></p>
 <ul style="margin-bottom: 1rem;">
@@ -176,32 +117,9 @@ Saudi Arabia's #1 Digital Transformation Enabler – powering Vision 2030 with e
   <li>Enable digital services depending on high bandwidth & low latency</li>
 </ul>
 
-<p style="margin-bottom: 1rem;"><em>Entities to Highlight: Solutions by STC</em></p>
-
 <h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">4. Scale - Cloud</h5>
 
 <p style="margin-bottom: 1rem;"><strong>Hook Line:</strong> "Scale smarter, run faster"</p>
-
-<p style="margin-bottom: 1rem;"><strong>Screen Content:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Animated migration journey: legacy data → cloud icon → multi-cloud dashboards</li>
-  <li>Industry cloud examples (finance, healthcare, government)</li>
-  <li>Visual toggle: Public | Private | Hybrid</li>
-</ul>
-
-<p style="margin-bottom: 1rem;"><strong>The message that we want to deliver to the audience is that</strong> "To accelerate, you need cloud. We help clients migrate, manage, and scale across multi-cloud and hybrid environments — keeping speed, agility, and cost efficiency at the core"</p>
-
-<p style="margin-bottom: 1rem;"><strong>High Level Offerings:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Public cloud services</li>
-  <li>Private cloud</li>
-  <li>Colocation</li>
-  <li>Hosting Services</li>
-  <li>Domain name registration</li>
-  <li>Multi cloud services - One Cloud</li>
-  <li>GPU as a Service</li>
-  <li>Edge computing</li>
-</ul>
 
 <p style="margin-bottom: 1rem;"><strong>Value to our clients:</strong></p>
 <ul style="margin-bottom: 1rem;">
@@ -210,30 +128,9 @@ Saudi Arabia's #1 Digital Transformation Enabler – powering Vision 2030 with e
   <li>Resilient IT that scales with demand</li>
 </ul>
 
-<p style="margin-bottom: 1rem;"><em>Entities to Highlight: Solutions by STC, Devoteam</em></p>
-
 <h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">5. Disrupt - Data & AI</h5>
 
 <p style="margin-bottom: 1rem;"><strong>Hook Line:</strong> "From data to decisions to disruption"</p>
-
-<p style="margin-bottom: 1rem;"><strong>Screen Content:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Live dashboards: predictive analytics, AI copilots, generative AI text/images</li>
-  <li>Visual metaphor: raw data streams turning into clean, glowing insights</li>
-  <li>Interactive "Ask the AI" demo → answers industry-specific queries</li>
-</ul>
-
-<p style="margin-bottom: 1rem;"><strong>The message that we want to deliver to the audience is that</strong> "Data is the new oil, but AI is the engine. With predictive analytics, business intelligence, and generative AI, we turn data into decisions — and decisions into disruption"</p>
-
-<p style="margin-bottom: 1rem;"><strong>High Level Offerings:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Data and AI Advisory</li>
-  <li>Video Analytics Platform</li>
-  <li>AI Infrastructure Implementation</li>
-  <li>Data and AI Integration</li>
-  <li>Enterprise AI Management</li>
-  <li>High Performance Computing</li>
-</ul>
 
 <p style="margin-bottom: 1rem;"><strong>Value to our clients:</strong></p>
 <ul style="margin-bottom: 1rem;">
@@ -242,35 +139,9 @@ Saudi Arabia's #1 Digital Transformation Enabler – powering Vision 2030 with e
   <li>Competitive edge → ability to innovate and disrupt markets</li>
 </ul>
 
-<p style="margin-bottom: 1rem;"><em>Entities to Highlight: Solutions by STC, Devoteam, Giza Systems, AvidBeam</em></p>
-
 <h5 style="color: #6366F1; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.75rem;">6. Sustain - Managed Services & BPO</h5>
 
 <p style="margin-bottom: 1rem;"><strong>Hook Line:</strong> "Partnerships that last beyond the project"</p>
-
-<p style="margin-bottom: 1rem;"><strong>Screen Content:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Uptime counters (e.g., "99.99% availability")</li>
-  <li>Animated SOC/NOC screens with threat detection</li>
-  <li>BPO showcase: customer inquiry handled by AI + human (split screen)</li>
-</ul>
-
-<p style="margin-bottom: 1rem;"><strong>The message that we want to deliver to the audience is that</strong> "Transformation is not a one-time event. We sustain it through always-on managed services and BPO operations — ensuring resilience, efficiency, and continuous optimization"</p>
-
-<p style="margin-bottom: 1rem;"><strong>High Level Offerings:</strong></p>
-<ul style="margin-bottom: 1rem;">
-  <li>Network Management</li>
-  <li>Managed Workplace</li>
-  <li>Devices & Endpoint Management</li>
-  <li>Application Management</li>
-  <li>Customer Lifecycle Management</li>
-  <li>HR Outsourcing</li>
-  <li>Finance & Accounting</li>
-  <li>Supply Chain and Procurement</li>
-  <li>Events Managements</li>
-  <li>Facilities Management</li>
-  <li>Incubation as a Service</li>
-</ul>
 
 <p style="margin-bottom: 1rem;"><strong>Value to our clients:</strong></p>
 <ul style="margin-bottom: 1rem;">
@@ -278,8 +149,6 @@ Saudi Arabia's #1 Digital Transformation Enabler – powering Vision 2030 with e
   <li>Efficiency: reduce operating costs through outsourcing & automation</li>
   <li>Long-term resilience → focus on growth while we handle operations</li>
 </ul>
-
-<p style="margin-bottom: 1rem;"><em>Entities to Highlight: Solutions by STC, Upsource</em></p>
 
 </div>`,
         image: images.E4
