@@ -21,7 +21,17 @@ export const journeyStations = [
     visitorState: 'Approaching the hub, seeing the vision',
     location: 'External Entrance',
     screens: [
-      { type: '55" Full HD', quantity: 1 }
+      {
+        type: '55" Full HD',
+        quantity: 1,
+        media: [
+          {
+            type: 'image',
+            url: '/mockups/Holobox/02/outer-screen-1.png',
+            caption: 'Innovate. Inspire. Impact.'
+          }
+        ]
+      }
     ],
     keyFeatures: [
       'Innovate. Inspire. Impact.',
@@ -46,8 +56,37 @@ export const journeyStations = [
     visitorState: 'Just entered, receptive and impressed',
     location: 'Main Entrance Lobby',
     screens: [
-      { type: '86" Holographic Display', quantity: 1 },
-      { type: 'Surface Pro Tablet', quantity: 1 }
+      {
+        type: '86" Holographic Display',
+        quantity: 1,
+        media: [
+          {
+            type: 'image',
+            url: '/mockups/Holobox/02/welcome-screen-1.png',
+            caption: 'Welcome idle screen - displays when not in use'
+          },
+          {
+            type: 'video',
+            url: '/mockups/Holobox/01/1 - Holobox 3D Cube.mp4',
+            caption: '3D object rotating and floating in holographic display - Option 1'
+          },
+          {
+            type: 'video',
+            url: '/mockups/Holobox/02/1 - Holobox 3D Cube 1.mp4',
+            caption: '3D object rotating and floating in holographic display - Option 2'
+          }
+          // NOTE: This holobox will also feature:
+          // - Feedback application (to be implemented)
+          // - Welcome idle screen (as shown above)
+          // - Interactive 3D objects that rotate and float in the holographic space
+        ]
+      },
+      {
+        type: 'Surface Pro Tablet',
+        quantity: 1,
+        media: []
+        // NOTE: Control interface for the holographic display
+      }
     ],
     keyFeatures: [
       '86" holographic 3D display',
@@ -72,7 +111,21 @@ export const journeyStations = [
     visitorState: 'Recognizing our comprehensive capabilities',
     location: 'Ecosystem Showcase',
     screens: [
-      { type: '55" Full HD Display', quantity: 2 }
+      {
+        type: '55" Full HD Display',
+        quantity: 2,
+        media: [
+          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 01.png', caption: 'Still Frame 1 - STC Sister Companies' },
+          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 02.png', caption: 'Still Frame 2 - STC Sister Companies' },
+          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 03.png', caption: 'Still Frame 3 - STC Sister Companies' },
+          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 04.png', caption: 'Still Frame 4 - STC Sister Companies' },
+          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 05.png', caption: 'Still Frame 5 - STC Sister Companies' },
+          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 06.png', caption: 'Still Frame 6 - STC Sister Companies' },
+          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 07.png', caption: 'Still Frame 7 - STC Sister Companies' },
+          { type: 'image', url: '/mockups/SisterScreens/option-with-picture_v1.png', caption: 'Still Frame 8 - Display Option with Pictures V1' },
+          { type: 'image', url: '/mockups/SisterScreens/option-with-picture_v3.png', caption: 'Still Frame 9 - Display Option with Pictures V3' }
+        ]
+      }
     ],
     keyFeatures: [
       'Giza Systems - MEA\'s leading integrator (3000+ professionals)',
@@ -100,7 +153,10 @@ export const journeyStations = [
     visitorState: 'Understanding our global credibility and connections',
     location: 'Partnership Gallery',
     screens: [
-      { type: 'Multiple Interactive Displays' }
+      {
+        type: 'Multiple Interactive Displays',
+        media: []
+      }
     ],
     keyFeatures: [
       'Huawei - Pioneering smart cities together',
@@ -126,10 +182,33 @@ export const journeyStations = [
     visitorState: 'Active exploration - touching, testing, experiencing',
     location: 'Interactive Demo Area',
     screens: [
-      { type: 'Table Display (5x5 P1.25)', resolution: '2400x1350' },
-      { type: 'Wall Screen (4x5 LED)', resolution: '2400x1080' },
-      { type: 'Interactive Touchscreen', size: '27"' },
-      { type: 'Side Displays', size: '2x 55" Full HD' }
+      {
+        type: 'Table Display (5x5 P1.25)',
+        resolution: '2400x1350',
+        media: [
+          { type: 'video', url: '/mockups/SmartCity/4 - Smart City.mp4', caption: 'Smart City Interactive Demo' },
+          { type: 'image', url: '/mockups/SmartCity/Smart City Scr 01.png', caption: 'Still Frame 1 - Smart City Solutions' },
+          { type: 'image', url: '/mockups/SmartCity/Smart City Scr 02.png', caption: 'Still Frame 2 - Smart City Solutions' },
+          { type: 'image', url: '/mockups/SmartCity/Smart City Scr 03.png', caption: 'Still Frame 3 - Smart City Solutions' },
+          { type: 'image', url: '/mockups/SmartCity/Smart City Scr 04.png', caption: 'Still Frame 4 - Smart City Solutions' },
+          { type: 'image', url: '/mockups/SmartCity/Smart City Scr 05.png', caption: 'Still Frame 5 - Smart City Solutions' }
+        ]
+      },
+      {
+        type: 'Wall Screen (4x5 LED)',
+        resolution: '2400x1080',
+        media: []
+      },
+      {
+        type: 'Interactive Touchscreen',
+        size: '27"',
+        media: []
+      },
+      {
+        type: 'Side Displays',
+        size: '2x 55" Full HD',
+        media: []
+      }
     ],
     keyFeatures: [
       'Smart Parking with AI (18,000+ cameras in Riyadh)',
@@ -156,7 +235,18 @@ export const journeyStations = [
     visitorState: 'Experiencing industry-specific innovation',
     location: 'Robotics & Automation Showcase',
     screens: [
-      { type: '27" Display', quantity: 1 }
+      {
+        type: '27" Display',
+        quantity: 1,
+        media: [
+          { type: 'image', url: '/mockups/ARIA/ARIA_screen 1.png', caption: 'Slide 1 - ARIA Technologies' },
+          { type: 'image', url: '/mockups/ARIA/ARIA_screen 2.png', caption: 'Slide 2 - ARIA Technologies' },
+          { type: 'image', url: '/mockups/ARIA/ARIA_screen 3.png', caption: 'Slide 3 - ARIA Technologies' },
+          { type: 'image', url: '/mockups/ARIA/ARIA_screen 4.png', caption: 'Slide 4 - ARIA Technologies' },
+          { type: 'image', url: '/mockups/ARIA/ARIA_screen 5.png', caption: 'Slide 5 - ARIA Technologies' },
+          { type: 'image', url: '/mockups/ARIA/ARIA_screen 6.png', caption: 'Slide 6 - ARIA Technologies' }
+        ]
+      }
     ],
     keyFeatures: [
       'Industrial robotics (Cartesian & P60 arms)',
@@ -182,8 +272,22 @@ export const journeyStations = [
     visitorState: 'Learning mode - understanding our capabilities',
     location: 'Main Exhibition Hall',
     screens: [
-      { type: '6x6 LED Wall (P0.9)', resolution: '3840x2160', size: '3600x1687.5mm' },
-      { type: '30" OLED Control Panel', resolution: '1366x768' }
+      {
+        type: '6x6 LED Wall (P0.9)',
+        resolution: '3840x2160',
+        size: '3600x1687.5mm',
+        media: [
+          { type: 'video', url: '/mockups/SolutionsWall/7 - Digital wall - 1.mp4', caption: 'Digital Wall Demo - Part 1' },
+          { type: 'video', url: '/mockups/SolutionsWall/7 - Digital wall - 2.mp4', caption: 'Digital Wall Demo - Part 2' },
+          { type: 'video', url: '/mockups/SolutionsWall/7 - Digital wall - 3.mp4', caption: 'Digital Wall Demo - Part 3' },
+          { type: 'image', url: '/mockups/SolutionsWall/content_v4.png', caption: 'Solutions Wall Content Overview' }
+        ]
+      },
+      {
+        type: '30" OLED Control Panel',
+        resolution: '1366x768',
+        media: []
+      }
     ],
     keyFeatures: [
       'Who we are - Saudi Arabia\'s #1 Digital Enabler',
@@ -210,7 +314,14 @@ export const journeyStations = [
     visitorState: 'Engaged, ready to discuss opportunities',
     location: 'Premium Meeting Space',
     screens: [
-      { type: '6x9 LED Wall', resolution: '4320x1620', size: '5400x2025mm' }
+      {
+        type: '6x9 LED Wall',
+        resolution: '4320x1620',
+        size: '5400x2025mm',
+        media: [
+          { type: 'video', url: '/mockups/CollaborationRoom/8 - Collaboration room.mp4', caption: 'Collaboration Room Experience' }
+        ]
+      }
     ],
     keyFeatures: [
       'Premium 6x9 LED wall for presentations',

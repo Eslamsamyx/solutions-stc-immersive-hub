@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { journeyStations, journeyStats, journeyPhases } from '../data/visitorJourney';
+import MediaGallery from './MediaGallery';
 import {
   HiArrowUp,
   HiChevronDown,
@@ -246,7 +247,7 @@ const VisitorJourney = () => {
                 <span>{index + 1}</span>
               </div>
 
-              <div className="station-card" onClick={() => toggleStation(station.id)}>
+              <div className="station-card">
                 <div className="station-header">
                   <div className="station-icon">
                     <Icon />
@@ -301,6 +302,8 @@ const VisitorJourney = () => {
                       <p><strong>Visitor State:</strong> {station.visitorState}</p>
                     </div>
 
+                    <MediaGallery screens={station.screens} />
+
                     <div className="detail-section">
                       <h4>Technical Specifications</h4>
                       {station.screens.map((screen, i) => (
@@ -315,7 +318,7 @@ const VisitorJourney = () => {
                   </div>
                 )}
 
-                <button className="expand-button">
+                <button className="expand-button" onClick={() => toggleStation(station.id)}>
                   {isExpanded ? 'Show Less' : 'Learn More'}
                   <HiChevronDown className={isExpanded ? 'rotate' : ''} />
                 </button>
