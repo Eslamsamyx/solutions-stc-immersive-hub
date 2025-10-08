@@ -115,15 +115,15 @@ export const journeyStations = [
         type: '55" Full HD Display',
         quantity: 2,
         media: [
-          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 01.png', caption: 'Still Frame 1 - STC Sister Companies' },
-          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 02.png', caption: 'Still Frame 2 - STC Sister Companies' },
-          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 03.png', caption: 'Still Frame 3 - STC Sister Companies' },
-          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 04.png', caption: 'Still Frame 4 - STC Sister Companies' },
-          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 05.png', caption: 'Still Frame 5 - STC Sister Companies' },
-          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 06.png', caption: 'Still Frame 6 - STC Sister Companies' },
-          { type: 'image', url: '/mockups/SisterScreens/Smart City Left Screen 07.png', caption: 'Still Frame 7 - STC Sister Companies' },
-          { type: 'image', url: '/mockups/SisterScreens/option-with-picture_v1.png', caption: 'Still Frame 8 - Display Option with Pictures V1' },
-          { type: 'image', url: '/mockups/SisterScreens/option-with-picture_v3.png', caption: 'Still Frame 9 - Display Option with Pictures V3' }
+          { type: 'image', url: '/mockups/SisterScreens/sisters-company-joint-offering-1.png', caption: 'Still Frame 1 - STC Sister Companies Joint Offering' },
+          { type: 'image', url: '/mockups/SisterScreens/sisters-company-joint-offering-2.png', caption: 'Still Frame 2 - STC Sister Companies Joint Offering' },
+          { type: 'image', url: '/mockups/SisterScreens/sisters-company-joint-offering-3.png', caption: 'Still Frame 3 - STC Sister Companies Joint Offering' },
+          { type: 'image', url: '/mockups/SisterScreens/sisters-company-joint-offering-4.png', caption: 'Still Frame 4 - STC Sister Companies Joint Offering' },
+          { type: 'image', url: '/mockups/SisterScreens/sisters-company-joint-offering-5.png', caption: 'Still Frame 5 - STC Sister Companies Joint Offering' },
+          { type: 'image', url: '/mockups/SisterScreens/sisters-company-joint-offering-6.png', caption: 'Still Frame 6 - STC Sister Companies Joint Offering' },
+          { type: 'image', url: '/mockups/SisterScreens/sisters-company-joint-offering-7.png', caption: 'Still Frame 7 - STC Sister Companies Joint Offering' },
+          { type: 'image', url: '/mockups/SisterScreens/sisters-company-joint-offering-8.png', caption: 'Still Frame 8 - STC Sister Companies Joint Offering' },
+          { type: 'image', url: '/mockups/SisterScreens/sisters-company-joint-offering-9.png', caption: 'Still Frame 9 - STC Sister Companies Joint Offering' }
         ]
       }
     ],
@@ -139,7 +139,7 @@ export const journeyStations = [
     duration: '5-8 minutes',
     color: '#7C3AED',
     gradient: 'linear-gradient(135deg, #7C3AED 0%, #9333EA 100%)',
-    image: images.E5,
+    image: images.E3,
     icon: HiGlobeAlt,
     description: 'Meet our family of specialized companies. Seven world-class partners bringing end-to-end digital transformation capabilities.'
   },
@@ -168,7 +168,7 @@ export const journeyStations = [
     duration: '3-5 minutes',
     color: '#F59E0B',
     gradient: 'linear-gradient(135deg, #F59E0B 0%, #FBBF24 100%)',
-    image: images.E3,
+    image: images.E5,
     icon: HiUserGroup,
     description: 'See our strategic alliances with global tech giants. Together, we bring world-class innovation to Saudi Arabia.'
   },
@@ -187,11 +187,11 @@ export const journeyStations = [
         resolution: '2400x1350',
         media: [
           { type: 'video', url: '/mockups/SmartCity/4 - Smart City.mp4', caption: 'Smart City Interactive Demo' },
-          { type: 'image', url: '/mockups/SmartCity/Smart City Scr 01.png', caption: 'Still Frame 1 - Smart City Solutions' },
-          { type: 'image', url: '/mockups/SmartCity/Smart City Scr 02.png', caption: 'Still Frame 2 - Smart City Solutions' },
-          { type: 'image', url: '/mockups/SmartCity/Smart City Scr 03.png', caption: 'Still Frame 3 - Smart City Solutions' },
-          { type: 'image', url: '/mockups/SmartCity/Smart City Scr 04.png', caption: 'Still Frame 4 - Smart City Solutions' },
-          { type: 'image', url: '/mockups/SmartCity/Smart City Scr 05.png', caption: 'Still Frame 5 - Smart City Solutions' }
+          { type: 'image', url: '/mockups/SmartCity/smart-city-screen-01.png', caption: 'Still Frame 1 - Smart City Solutions' },
+          { type: 'image', url: '/mockups/SmartCity/smart-city-screen-02.png', caption: 'Still Frame 2 - Smart City Solutions' },
+          { type: 'image', url: '/mockups/SmartCity/smart-city-screen-03.png', caption: 'Still Frame 3 - Smart City Solutions' },
+          { type: 'image', url: '/mockups/SmartCity/smart-city-screen-04.png', caption: 'Still Frame 4 - Smart City Solutions' },
+          { type: 'image', url: '/mockups/SmartCity/smart-city-screen-05.png', caption: 'Still Frame 5 - Smart City Solutions' }
         ]
       },
       {
@@ -277,10 +277,10 @@ export const journeyStations = [
         resolution: '3840x2160',
         size: '3600x1687.5mm',
         media: [
-          { type: 'video', url: '/mockups/SolutionsWall/7 - Digital wall - 1.mp4', caption: 'Digital Wall Demo - Part 1' },
+          { type: 'video', url: '/mockups/SolutionsWall/7 - Digital wall.mp4', caption: 'Digital Wall Demo - Part 1' },
           { type: 'video', url: '/mockups/SolutionsWall/7 - Digital wall - 2.mp4', caption: 'Digital Wall Demo - Part 2' },
           { type: 'video', url: '/mockups/SolutionsWall/7 - Digital wall - 3.mp4', caption: 'Digital Wall Demo - Part 3' },
-          { type: 'image', url: '/mockups/SolutionsWall/content_v4.png', caption: 'Solutions Wall Content Overview' }
+          { type: 'image', url: '/mockups/SolutionsWall/Solution-Wall-Controller.png', caption: 'Solutions Wall Controller Interface' }
         ]
       },
       {
